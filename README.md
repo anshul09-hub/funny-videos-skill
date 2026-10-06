@@ -16,6 +16,6 @@ Copy the `funny-videos` folder into `~/.claude/skills/` (or your project's `.cla
 - [HyperFrames](https://github.com/heygen-com/hyperframes) for the edit, plus ffmpeg and whisper for the checks.
 
 ## Author
-Anshul M. Instagram [@anshul09.ai](https://instagram.com/anshul09.ai), YouTube [Anshul AI](https://www.youtube.com/@Anshul-c8y).
+Anshul M. Instagram [@anshul09.ai](https://instagram.com/anshul09.ai), YouTube [Anshul AI](https://www.youtube.com/@anshul09ai).
 
 MIT licensed.
